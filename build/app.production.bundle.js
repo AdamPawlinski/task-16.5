@@ -898,7 +898,7 @@ var Title = function Title(props) {
       'span',
       null,
       'There are still: ',
-      props.data.length,
+      props.data,
       ' tasks on your list'
     )
   );
